@@ -2,7 +2,7 @@
 
 # Faisla.ai - AI-Assisted Legal Intelligence System
 
-### *Team AI Seniors – Semester Project*
+### *NLP – Semester Project*
 
 **Members:** Sajeel Tariq, Faisal Shahid, Hunaiza Khan, Syed Anas Ahmed
 
@@ -113,4 +113,9 @@ A refined, data-driven ranking of case influence, useful for applications like c
 
 Python, BeautifulSoup, SentenceTransformers, BERTopic, Scikit-learn, FAISS, Whoosh, HuggingFace Transformers, RandomForestRegressor.
 
+---
+
+## 🛠️ Video
+
+https://www.youtube.com/watch?v=mYTOdPlc9kc&t=1s
 ---
