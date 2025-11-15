@@ -1,0 +1,484 @@
+================================================================================
+Query 1: What are the legal grounds for self-defence under Australian law?
+================================================================================
+
+Rank 1 | File: 09_170.xml | Base Score: 0.0358 | Rerank Score: 1.3218
+Except in the sense that a witness enjoys what is known as the right to silence, the respondent has no relevant right, either at common law or by virtue of statute. The privilege against self-incrimination would not ordinarily protect a person against disclosure of his defence to a criminal charge. The so-called right not to disclose a defence is the result merely of the absence in ordinary circumstances of any statutory requirement that defences be revealed. On the other hand, even apart from the prospect of self-incrimination, the continuation of an administrative inquiry, of an inquisitorial nature, into the rights and wrongs of the very conduct which forms the basis of pending criminal charges, and the compulsion of a person facing those charges to give evidence on oath, may well give rise to a real risk of the kind referred to by Gibbs CJ in Builders Labourers' Federation : see Hammond v Commonwealth of Australia [1982] HCA 42 ; (1982) 152 CLR 188 and Commissioner of Taxation v De Vonk (1995) 61 FCR 564. Whether such a risk arises in the present case, and if so whether the taking of that risk is authorised by the ACC Act, are questions to which I shall presently turn. Before doing so, however, there is one other, potentially important, factual feature of the present case which should be noted.
+
+Rank 2 | File: 06_696.xml | Base Score: 0.0673 | Rerank Score: -1.0314
+If circumstances arose where the only means of protecting the right against self-incrimination and self-penalization were to excuse a party in limine from discovery or interrogatories, such circumstances should, in my view, be seen as exceptional and as justifying a departure from the general rule. ' 
+
+
+ 
+ 27 In Australian Competition & Consumer Commission v FFE Building Services Ltd (2003) FCAFC 132 , a Full Court of the Federal Court (Emmett, Hely and Jacobson JJ) referred to the general principles in respect of self-incrimination, at pars 12 --- 14:
+ '12 The privilege against self-incrimination protects an individual from making a disclosure that may lead to incrimination or to the discovery of real evidence of an incriminating nature: Sorby v Commonwealth of Australia [1983] HCA 10 ; (1983) 152 CLR 281 at 310. Further, a respondent in a proceeding that is solely for the recovery of a pecuniary penalty should not be ordered to disclose information or produce documents that may assist in establishing his or her liability to the penalty: Refrigerated Express Lines (A/Asia) Pty Ltd v Australian Meat and Livestock Corporation (1979) 42 FLR 208; Pyneboard Pty Ltd v Trade Practices Commission [1983] HCA 9 ; (1983) 152 CLR 328 at 336.
+
+Rank 3 | File: 09_637.xml | Base Score: 0.0635 | Rerank Score: -3.1749
+If he, for example, were to be victimised on the basis of the decision he made those engaging in that conduct, no matter what their rank or appointment, would commit an offence. Apart from in Australia, a right of redress exists to this day as part of the military law of the United Kingdom --- s 334 of the Armed Forces Act 2006 (UK) and of other constitutional monarchies within the Commonwealth: see, as to Canada, s 29 of the National Defence Act 1985 (Can) and Queen's Regulations and Orders for the Canadian Forces, Ch 7 and, as to New Zealand, s 49 of the Defence Act 1990 (NZ). The purpose and provenance of these provisions are identical to those of Australia. In our Army and in the armies of each of these countries the right of redress gives formal recognition to an ethos that is sought to be instilled into officer cadets at their military colleges, academies and other officer cadet training units with respect to the obligation for fair treatment and concern for the welfare of subordinates that the holder of a Queen's commission assumes in respect of those under his or her command. That obligation was definitively expressed by Field Marshal Sir Philip Walhouse Chetwode, then Commander in Chief of the Indian Army, in an address delivered at the formal inauguration of the Indian Military Academy in 1932: 
+ The safety, honour and welfare of your country come first, always and every time.
+
+
+================================================================================
+Query 2: Explain how negligence is established in Australian tort law.
+================================================================================
+
+Rank 1 | File: 09_228.xml | Base Score: 0.1022 | Rerank Score: 2.6392
+The Commonwealth submits that such a pleading does not allege the elements of the tort of misfeasance in a public office. It is difficult to fault that submission. The tort was discussed by the High Court in Northern Territory of Australia v Mengel [1995] HCA 65 ; (1994) 185 CLR 307 at 345-348 per Mason CJ, Dawson, Toohey, Gaudron and McHugh JJ. That case establishes that the tort has the following elements: 
+(a) an act or omission by a public officer done:
+ 
+(i) with intent to harm; or
+ 
+(ii) knowingly in excess of his or her authority; and
+ 
+(b) involving a foreseeable risk of harm; and
+ 
+(c) causing loss or damage. It may be that element (a)(ii) will be satisfied where an official recklessly disregards the means of ascertaining the extent of his or her power: Mengel at 347. There is no suggestion in this case that the Commonwealth itself deliberately harmed Mr Habib. All of the actual harm appears to have been caused by the Pakistani, Egyptian and US authorities. So viewed, the matter cannot involve intent to harm in the sense identified in Mengel .
+
+Rank 2 | File: 09_228.xml | Base Score: 0.1103 | Rerank Score: 2.1909
+But as at present advised, I see no reason why a tort of intention should be subject to the rule which excludes compensation for mere distress, inconvenience or discomfort in actions based on negligence: see Hicks v. Chief Constable of the South Yorkshire Police [1991] UKHL 9 ; [1992] 2 All E.R. 65. The policy considerations are quite different. I do not therefore say that Khorasandjian v. Bush was wrongly decided. But it must be seen as a case on intentional harassment, not nuisance. Of course, Lord Hoffman was considering whether an action in nuisance should lie where a building (the Canary Wharf tower) caused television interference. The authors of The Law of Torts in Australia also point to a decision of McDonald J in Gimson v Victorian Workcover Authority [1995] 1 VR 209 at 226-7 where a pleading was permitted to go forward to trial in which mere mental distress was alleged. More recently, however, the Victorian Court of Appeal has considered the issue in Giller v Procopets [2008] VSCA 236. In that case the defendant showed, or threatened to show, to others video footage depicting himself and the appellant, his former de facto partner, engaged in sexual activity. One of the claims was that those actions constituted the tort in Wilkinson v Downton . The appellant did not suffer psychiatric harm as a result of the threat but she did suffer severe emotional distress.
+
+Rank 3 | File: 07_463.xml | Base Score: 0.1135 | Rerank Score: 1.8173
+Rather, recourse is to be had to the body of authority which explains the circumstances in which an officer of a corporation is personally liable for the torts of the corporation...' (References omitted)
+ 
+
+132 There was no dispute between the parties as to the appropriate test in relation to liability as a joint tortfeasor on ordinary principles. 133 In Universal Music Australia Pty Ltd v Cooper [2005] FCA 972 ; (2005) 150 FCR 1, Tamberlin J observed at 30:
+ 
+ 'The authorities indicate that in order to make out a case of joint tortfeasor liability on the basis that copyright infringement is a statutory tort, it is necessary to establish that there has been a common design by the respondents to participate in or induce or procure another person to commit an act of infringement. In WEA International Inc v Hanimex Corp Ltd (1987) 17 FCR 274 at 283, Gummow J points out that in circumstance where two or more persons assisted or concurred in or contributed to an act causing damage this is not of itself sufficient to found joint liability and there must also be some common design. In other words, there must be something in the nature of concerted action or agreed common action. It is not necessary that there must be an explicitly mapped out plan with the primary offenders.
+
+
+================================================================================
+Query 3: What is the difference between manslaughter and murder in Australia?
+================================================================================
+
+Rank 1 | File: 06_1346.xml | Base Score: -0.0019 | Rerank Score: 0.3655
+The prescribed punishment is the same as that contained in Article 120 of the Code. 13 Pursuant to s 19 of the Act the magistrate, in determining whether extradition should occur, must find that there are offences in Australia equivalent to those with which Dragan is charged. This concept is known as 'dual criminality'. The Minister claims that the equivalent offences in New South Wales to those referred to in the warrant are contained in the Crimes Act 1900 (NSW), namely assault occasioning bodily harm and common assault (ss 59(1) and 61 ); murder as accessory before the fact and/or soliciting or encouraging a person to commit murder (ss 19A and 26 ); and murder, malicious wounding, malicious destruction of property, firing a firearm with reckless disregard for safety, and stealing property in a dwelling house (ss 19A , 35 , 195 , 93GA and 148 ). Each offence carries a prescribed penalty including imprisonment for a period of not less than 12 months. 14 Following his apprehension, Dragan instituted proceedings for a writ of habeas corpus in the High Court of Australia claiming that both s 15 of the Act and the Regulations were invalid. On 15 June 2006 those proceedings were dismissed: see Vasiljkovic v The Commonwealth of Australia & Ors [2006] HCA 40 . 15 On 7 July 2006 Dragan instituted the present proceedings by filing an application stated to be pursuant to s 39B of the Judiciary Act 1903 (Cth).
+
+Rank 2 | File: 07_626.xml | Base Score: -0.0123 | Rerank Score: -3.6589
+In general terms, the child's best interests will be served if he or she remains with his or her parents. However, countervailing considerations which may point to the child's best interests being served by separation from the non-citizen include, but are not limited to, any evidence that the child has been abused or neglected, or suffered or experienced any physical or emotional trauma arising from the non-citizen's conduct. 15 Under the ambit of "other considerations" the Direction includes factors such as the extent of disruption to the non-citizen's family, business and other ties to the Australian community, marriage to or a relationship with an Australian citizen or permanent resident, and the degree of hardship which would be caused to immediate family members lawfully resident in Australia. The Direction provides that factors such as these should be taken into account but generally be given less individual weight than the primary considerations. 16 In relation to primary consideration (a), the protection of the Australian community, the Minister took into account the seriousness and nature of the applicant's conduct, the likelihood that such conduct might be repeated, and the question of general deterrence. She found that the conviction of manslaughter involved an offence which was very serious. She took into account the fact that in addition to his manslaughter conviction he had a number of other convictions for various offences. These included convictions involving acts of physical violence and the use or possession of weapons.
+
+Rank 3 | File: 09_36.xml | Base Score: -0.0656 | Rerank Score: -4.2366
+That condition is in the following terms: 
+ (a) ... 
+
+ 
+ (b) ... 
+
+ 
+ (c) the magistrate is satisfied that, if the conduct of the person constituting the offence in relation to the extradition country, or equivalent conduct, had taken place in the part of Australia where the proceedings are being conducted and at the time at which the extradition request in relation to the person was received, that conduct or that equivalent conduct would have constituted an extradition offence in relation to that part of Australia; and 
+
+ 
+ (d) ... 
+
+ The term 'extradition offence' is relevantly defined in s 5 of the Act to mean: 
+ (a) ... 
+
+ 
+ (b) in relation to Australia or a part of Australia---an offence against a law of Australia, or a law in force in the part of Australia, for which the maximum penalty is death or imprisonment, or other deprivation of liberty, for a period of not less than 12 months. THE DUAL CRIMINALITY REQUIREMENT 
+ It was common ground that what is required is not complete identicality of offences, but in substance, duality of criminality: Harris v Attorney-General (Cth) (1994) 52 FCR 386 at 411; Holt v Hogan (No 2) [1993] FCA 543 ; (1993) 46 FCR 145 at 149 --- 151 per Lee J.
+
+
+================================================================================
+Query 4: Under what circumstances can a contract be considered void in Australia?
+================================================================================
+
+Rank 1 | File: 07_1138.xml | Base Score: 0.1689 | Rerank Score: 7.0285
+The contract was found to be void because the claimant in that case was an unlawful non-citizen in Australia. Section 235 of the Migration Act 1958 (Cth) made it an offence for an unlawful non-citizen in Australia to perform work in Australia in the circumstances then applicable. Hence, the Court found that the claimant in that case could not enter into a contract of service: see especially at [12] --- [13]. A similar result was reached in WorkCover Corporation (San Remo Macaroni Co Pty Ltd) v Da Ping (1994) 175 LSJS 469. 46 In Yango Pastoral Co Pty Limited v First Chicago Australia Limited [1978] HCA 42 ; (1978) 139 CLR 410 at 413, Gibbs ACJ said
+ 
+ Where a statute imposes a penalty upon the making or performance of a contract, it is a question of construction whether the statute intends to prohibit the contract in this sense, that is, to render it void and unenforceable, or whether it intends only that the penalty for which it provides shall be inflicted if the contract is made or performed. At 426, Mason J said
+ 
+ ... the question is whether the statute intends merely to penalize the person who contrives the prohibition or whether it intends to go further and prohibit contracts the making of which constitute [the breach].
+
+Rank 2 | File: 07_1189.xml | Base Score: 0.0937 | Rerank Score: 4.5088
+' 
+
+
+ When are contracts void for uncertainty? 44 The use of language which, as a matter of construction and not mere speculation, cannot be given any one meaning rather than another will defeat any intention of the parties to make a binding contract (per Menzies J in The Council of the Upper Hunter County District v Australian Chilling and Freezing Co. Limited [1968] HCA 8 ; (1968) 118 CLR 429 at 441). 45 Cases may arise where a vague, uncertain, or meaningless clause in a contract can simply be ignored. Other like clauses may be waived by a party if inserted solely for the benefit of that party. However, a clause which is definitive of the ultimate rights which it is contemplated that a party will get under his contract is incapable of being so treated. 46 However, not all ambiguous contracts are to be found void for uncertainty. In The Council of the Upper Hunter County District v Australian Chilling and Freezing Co. Limited , Barwick CJ said at 436-7:
+ 
+ '... a contract of which there can be more than one possible meaning or which when construed can produce in its application more than one result is not therefore void for uncertainty. As long as it is capable of a meaning, it will ultimately bear that meaning which the courts, or in an appropriate case, an arbitrator, decides is its proper construction: and the court or arbitrator will decide its application.
+
+Rank 3 | File: 08_324.xml | Base Score: 0.0708 | Rerank Score: 2.1633
+(2A) A contract that is a related condition or collateral arrangement may be declared void or varied even though it does not relate to the performance by a person of work in an industry, so long as: 
+ 
+ 
+ 
+ 
+ (a) the contract to which it is related or collateral is a contract whereby the person performs work in an industry, and 
+ 
+ (b) the performance of work is a significant purpose of the contractual arrangements made by the person. (3) A contract may be declared wholly or partly void, or varied, either from the commencement of the contract or from some other time. (4) In considering whether the contract is unfair because it is against the public interest, the matters to which the Commission is to have regard must include the effect that the contract, or a series of such contracts, has had, or may have, on any system of apprenticeship and other methods of providing a sufficient and trained labour force. (5) In making an order under this section, the Commission may make such order as to the payment of money in connection with any contract declared wholly or partly void, or varied, as the Commission considers just in the circumstances of the case. (6) In making an order under this section, the Commission must take into account whether or not the applicant (or persons on behalf of whom the application is made), took any action to mitigate loss.
+
+
+================================================================================
+Query 5: What are the tenant’s rights in residential lease agreements in Australia?
+================================================================================
+
+Rank 1 | File: 09_844.xml | Base Score: 0.1417 | Rerank Score: 3.4086
+Clause 2.2 of that Constitution states that the objects and purposes of the Association include: 
+(a) to relieve the poverty, sickness, destitution, distress, suffering, misfortune or helplessness of Aboriginal people in Central Australia; and
+ 
+(b) advance its objects by means including the following:
+ 
+(i) by obtaining land, housing and other community facilities for the Members of the Association;
+ 
+(ii) acting and/or promoting programs in accordance with Aboriginal law which advance the living conditions, health, economic status, education, training and well being of the Members. The Council takes the view that leases such as are held by Ms Shaw are periodic tenancies terminable on 42 days notice under the Residential Tenancies Act 1999 (NT). However, Ms Shaw contends that when the proper matrix of facts is considered the tenancy agreement is only terminable without the agreement of the tenant on breach. It is not necessary to resolve this issue on the present application. Clause 2.2(a) of the proposed sub-lease provides: 
+ "The Association grants to the EDTL [the Director] a sublease of the Living Area, subject to and concurrent with any Registered Interests and any Rights of Occupation, commencing on the Commencement Date, for a term of 40 years ( Term )".
+
+Rank 2 | File: 07_876.xml | Base Score: 0.0883 | Rerank Score: 2.1124
+Residential premises are premises used or intended to be used as a place of residence (s 6). A residential tenancy is a right to occupy residential premises under the tenancy agreement (s 7). A residential tenancy agreement is an agreement whether wholly oral, wholly written or wholly implied under which a person grants another a right to occupy residential premises as a residence whether or not the right is one of exclusive occupation (s 8(1) , (2) and (3)). The lessor must take reasonable steps to ensure that the tenant has quiet enjoyment of the premises (s 101(1)) and the lessor's agent must not interfere with the reasonable piece, comfort or privacy of the tenant in using the premises (s 101(2)). The lessor must ensure that the premises and inclusions are clean, fit for the tenant to live in and are in good repair (s 103(2)(a) , (b) and (c)). The lessor must ensure that the premises remain fit for the tenant to live in and that the premises and inclusions are maintained in good repair (s 103(3)(a) and (b)). The lessor must also ensure that any law dealing with issues concerning the health or safety of persons using or entering the premises is complied with (s 103(3)(c)). 57 Accordingly, s 106(1) of the PLA and ss 103(2) and (3) of the Residential Tenancies Act 1994 give rise to obligations upon the lessor which are enforceable by remedial action against the landlord.
+
+Rank 3 | File: 09_844.xml | Base Score: 0.0933 | Rerank Score: 0.9558
+The Director is established under s 20B of the Aboriginal Land Rights (Northern Territory) Act 1976 (Cth) ("Aboriginal Land Rights Act"). The Director's functions include, if the Minister has agreed to a request under s 20CA(2) in relation to a lease and the Commonwealth intends to enter into the lease, to enter into the lease on behalf of the Commonwealth and administer the lease. The second proceeding is brought by the applicants as representative parties pursuant to the provisions of Part IVA of the Federal Court of Australia Act . The group members to whom the second proceeding relates and who are the parties represented are the same persons who are represented in the first proceeding, namely persons who: 
+(a) are residents in, or have been granted rights of occupancy of, houses in the Alice Springs town camps under tenancies entered into individually by them with the Housing Associations; 
+ 
+(b) who are members of one of the Housing Associations which are incorporated under the Associations Act 2003 (NT) ("the Associations Act") or the Corporations (Aboriginal and Torrens Strait Islander) Act 2006 (Cth) ("the Aboriginal Corporations Act"). In the second proceeding the first applicant Barbara Rachel Shaw is a member and tenant of the twelfth fourth respondent Mt Nancy Housing Association Inc. The second applicant is a member and tenant of the tenth Housing Association. The third applicant is a member and tenant of the second Housing Association. The fourth applicant is a member and tenant of the fourth Housing Association.
+
+
+================================================================================
+Query 6: How does Australian law define defamation?
+================================================================================
+
+Rank 1 | File: 08_454.xml | Base Score: 0.1217 | Rerank Score: 4.4490
+THE DEFAMATION PROCEEDINGS 
+ Introduction 
+ 
+12 Section 5 of the Defamation Act 1958 (NSW) defined an actionable defamation for which proceeding could be brought in New South Wales, including a defamation comprising imputations by which a person was likely to be injured in his or her trade or profession. The Defamation Act 1958 (NSW) was, however, repealed by s 4(1) of the Defamation Act 1974 (NSW). Thereafter, the law relating to defamation was as if the earlier Act:
+ 
+ 'had not been passed and the common law and the enacted law ... shall have effect accordingly' (s 4(2)). See Sungravure Pty Ltd v Middle East Airlines Airliban SAL [1975] HCA 6 ; (1975) 134 CLR 1 ; John Fairfax Publications Pty Ltd v Gacic [2007] HCA 28 ; (2007) 235 ALR 402 , at 422-423 [77]-[78], per Kirby J (dissenting). SRSC's defamation claim was brought pursuant to the provisions of the Defamation Act 1974 (NSW). Pleadings 
+ 
+13 After pleading the three separate publications, the plaintiffs in the defamation proceedings alleged that the following imputations defamatory of SRSC were made in each of the three publications:
+ 
+ 
+ '(a) Through its surgical staff, [SRSC], which is an eye-surgery clinic, behaves unethically in that for its financial gain they mislead their patients about the risks of eye surgery.
+
+Rank 2 | File: 07_1625.xml | Base Score: 0.1578 | Rerank Score: 3.2305
+However, the first applicant presses its claim for damages for defamation in respect of the publication of the 13 September facsimile in Queensland, Victoria, South Australia, Western Australia, Tasmania and the Australian Capital Territory, acknowledging that it has no entitlement to damages in New South Wales by virtue of s 8A of the Defamation Act 1974 (NSW). In respect of publication of the 15 September email in China, including the Special Administrative Region of Hong Kong, no attempt has been made to establish what, if any, defamation law applies in that country or in that region. The applicants submit that it should be presumed, in the absence of evidence to the contrary, that the defamation law in China, including the Special Administrative Region of Hong Kong, is the same as it is in the place in which the proceedings were brought. In the context of a motor vehicle accident in New Caledonia in which a New South Wales resident was seriously injured, Gleeson CJ, Gaudron, McHugh, Gummow and Hayne JJ said in Regie Nationale des Usines Renault SA v Zhang [2002] HCA 10 ; (2002) 210 CLR 491 at 518 [69] - [70] : 
+ 
+ 'Two particular questions arise respecting the pleading of foreign law in tort actions. ... 
+ 
+ The first question is whether it is necessary for the plaintiff to plead the foreign law in order to establish a cause of action. The answer preferred by Dicey is in the negative.
+
+Rank 3 | File: 08_995.xml | Base Score: 0.1655 | Rerank Score: 2.5874
+Damages are presumed, and they are not required to prove actual damage. They have, however, also pleaded economic loss. This must be proved. 156 Dallas Gibson may of course bring an action for defamation. In all jurisdictions other than New South Wales, a trading corporation such as RMC may sue for defamation in so far as the imputations attack its commercial reputation and can generally be shown to have caused some financial harm: see RP Balkin and JLR Davis, Law of Torts (LexisNexis Butterworths Australia, 3 rd ed, 2004) ("Balkin and Davis") at p 563-564. Section 8A of the Defamation Act 1974 (NSW) denied a cause of action in defamation to a corporation other than one that employed less than 10 employees and had no subsidiaries. 157 Whether or not words are defamatory is a question of fact. This question of fact in turn depends on (1) what the words mean; and (2) whether the imputations are defamatory. The intention of the alleged defamer is irrelevant to the question of liability.
+
+
+================================================================================
+Query 7: What are the penalties for insider trading in Australia?
+================================================================================
+
+Rank 1 | File: 07_1085.xml | Base Score: 0.0360 | Rerank Score: 1.4896
+The joint submissions state that penalties higher than $1.75m, for example penalties of $2m and above, have only been set against companies in situations of blatant cartelisation of a market (for example, see Australian Competition and Consumer Commission v ABB Power Transmission Pty Ltd (2004) ATPR 42-011, Australian Competition and Consumer Commission v Roche Vitamins Australia Pty Ltd (2001) ATPR 41-809, CSR Ltd (1991) ATPR 41-076, Trade Practices Commission v Pioneer Concrete (Vic) Pty Ltd (1985) ATPR 40-590 and Trade Practices commission v TNT Australia Pty Ltd (1995) ATPR 41-375 and associated cases (known as the Transformers, Vitamins, Concrete and Express Freight cartels respectively), repeat contraventions, and where the company was otherwise a very large company which acted as a clear ring leader (eg Tyco (2000) ATPR 41-740 and associated Tyco cases ( Australian Competition and Consumer Commission v Tyco Australia Pty Ltd (2001) ATPR 41-810, Australian Competition and Consumer Commission v Tyco Australia Pty Ltd (2001) ATPR 41-798, Australian Competition and Consumer Commission v Tyco Australia Pty Ltd (2001) ATPR 41-797, Australian Competition and Consumer Commission v Tyco Australia Pty Ltd (2000) ATPR 41-772, Australian Competition and Consumer Commission v Tyco Australia Pty Ltd (2001) ATPR 41-796, Australian Competition and Consumer Commission v Tyco Australia Pty Ltd (2000) ATPR 41-788, Australian Competition and Consumer Commission v Tyco Australia Pty Ltd (2000) ATPR 41-789 and Australian Competition and Consumer Commission v Tyco Australia Pty Ltd (2000) ATPR 41-760) (the Queensland Fire Protection Case).
+
+Rank 2 | File: 07_2061.xml | Base Score: 0.0342 | Rerank Score: 1.2486
+Introduction 
+ 
+ 1 The respondents have admitted to a large number of contraventions of the resale price maintenance prohibition contained in s 48 of the Trade Practices Act 1974 (Cth) ("the Act "). The Australian Competition and Consumer Commission ("the ACCC") and the respondents have jointly put forward to the Court pecuniary penalties in amounts agreed between them in respect of those contraventions. They submit that these amounts are appropriate penalties to be imposed on the respondents under s 76 of the Act . 2 The proposed penalties are: 
+ 
+ 
+ • Navman (Australia) Pty Limited (now known as Aus Holdco Pty Ltd) ("Navman") $1,250,000
+ • Mr Baird $ 80,000
+ • Mr King $ 30,000 
+ 
+ 
+ 3 It is well established that there is a public interest in promoting the settlement of litigation, particularly where it is likely to be lengthy and expensive. This public interest extends to the settlement of proceedings in which corporations acknowledge contraventions of the restrictive trade practices provisions of Part IV of the Act . 4 Nevertheless, the parties accept, as they must, that the Court is not merely a "rubber stamp" for the agreement reached between them. It is for me to determine the appropriate penalties having regard to all the circumstances: NW Frozen Foods Pty Limited v Australian Competition and Consumer Commission (1996) 71 FCR 285 at 290-291 (per Burchett and Kiefel JJ); Minister for Industry, Tourism and Resources v Mobil Oil Australia Pty Ltd (2004) ATPR 41-993 (per Branson, Sackville and Gyles JJ).
+
+Rank 3 | File: 07_1085.xml | Base Score: 0.0357 | Rerank Score: 0.7501
+Determination of pecuniary penalty 
+ 
+326 The applicant submits that the penalty it proposes of $1.2m is within appropriate range because higher penalties, particularly of $2m and more, have only been set against companies in situations of blatant cartelisation of a market. Here the offence is a first offence. It relies upon the penalties imposed in Australian Competition and Consumer Commission v Tyco Australia Pty Limited (2000) ATPR 41-740 and associated Tyco cases (the Queensland Fire Protection Case) ; Australian Competition and Consumer Commission v Midland Brick Co Pty Ltd (2004) 207 ALR 329 as well as Australian Competition and Consumer Commission v Tubemakers of Australia Limited [2000] FCA 227 ; Australian Competition and Consumer Commission v Australian Safeway Stores Pty Ltd (1997) 75 FCR 238 and Australian Competition and Consumer Commission v George Weston Foods Ltd (2000) ATPR 41-763. 327 The applicant also contends that its proposed penalty for Mr Smith is within appropriate range. It contends that the relevant conduct in Australian Competition and Consumer Commission v Gullyside Pty Ltd (2006) ATPR 42-097 where a penalty of $50 000 was imposed, the conduct was of lesser significance than here, involving only two competitors, extending over a shorter period and put into effect on fewer occasions.
+
+
+================================================================================
+Query 8: Can a minor be held liable for breach of contract under Australian law?
+================================================================================
+
+Rank 1 | File: 08_1512.xml | Base Score: -0.0043 | Rerank Score: -0.0993
+The contract of employment did so by reference, by operation of the Workplace Relations Act and by operation of the provisions of the agreement. Hence, it was said, the breaches of the agreement were also breaches of the contract, founding the declaratory relief sought. 62 The University and the intervener, the Australian Higher Education Industrial Association (AHEIA), submitted that the Workplace Relations Act (relevantly, ss 719, 720 and 849) identified the relief that could be granted to remedy a breach of an agreement under the statute. The relief sought was not available under those provisions. The agreement was not a contract between the University and the applicant and general law remedies for breach of contract were not available. The contract of employment did not incorporate the agreement by any of the methods relied on by the applicant. Hence, any breach of the agreement could not be a breach of the contract of employment. Does the contract of employment incorporate the agreement? 63 The first way in which the applicant submitted that the contract of employment incorporated the whole of the agreement (or at least its disciplinary provisions) was by reference. 64 Riverwood International Australia Pty Ltd v McCormick (2000) 177 ALR 193 ; [2000] FCA 889 (North and Mansfield JJ) confirmed the principles applying to incorporation of documents by reference into employment contracts (adopting the principles identified by Weinberg J in McCormick v Riverwood International (Australia) Pty Ltd (1999) 167 ALR 689 ; [1999] FCA 1640 at [70] to [78]).
+
+Rank 2 | File: 06_1033.xml | Base Score: -0.0068 | Rerank Score: -1.0131
+However, I am not satisfied that Dr Wearne is unable to plead a reasonable cause of action based upon alleged breaches of her contract of employment. It is therefore appropriate for Dr Wearne to be granted leave to further amend the Statement of Claim to replead the employment contract upon which she relies. The Implied Term 
+ 
+22 The University submitted that while an implied term of mutual trust and confidence is part of the law of the United Kingdom, there remains a question whether such a term may be implied by law in an Australian contract of employment. I accept that the law is not certain in this respect ( Heptonstall v Gaskin (No 2) (2005) 138 IR 103 at [22]-[23]). However, the implied term as pleaded (which does not involve mutual obligations) finds some support in Australian authorities ( Burazin v Blacktown City Guardian [1995] IRCA 660 --- Madgwick J's consideration of this issue was not disapproved by the Full Court on appeal in Burazin v Blacktown City Guardian Pty Ltd (1996) 142 ALR 144; Perkins v Grace Worldwide (Aust) Pty Ltd (1997) 72 IR 186). It would not be appropriate on the present motion to foreclose argument on the important question of whether an Australian employer has the implied obligation pleaded in par 10 of the Statement of Claim. 23 The University further complained of Dr Wearne's failure to identify the basis upon which an implication of the kind which she alleges may be made.
+
+Rank 3 | File: 08_1262.xml | Base Score: 0.0747 | Rerank Score: -1.4155
+However, the plaintiff says that he should have discovery as to any alternative power that the defendants relied upon in the two periods complained about by the plaintiff, that is, the period of detention from some days prior to 14 November 2001 until the plaintiff was taken to Nauru on 29 December 2001. This period is to be broken into two discrete periods. The first is prior to 14 November 2001 and the second is after 14 November 2001. 41 The defendants also point to the fact that if they are correct about the allegation that the plaintiff was not a minor, then that is also an end to the matter. Alternatively, if he was a minor, then the plaintiff is entitled, for so long as he was in Australia, to the protection of the Convention on the Rights of the Child (New York, 20 November 1989) Entered into force generally on 2 September 1990 and in force in Australia on 16 January 1991 (the Rights of the Child Convention). 42 The plaintiff relies on the fact that he has pleaded the Minister's contumelious disregard in support of an entitlement to exemplary damages. In the course of the hearing I indicated that it would be surprising if a plaintiff would be entitled to have discovery which was otherwise not available (in this instance, further discovery) simply by raising a pleading of this nature.
+
+
+================================================================================
+Query 9: What is the process of judicial review in Australian administrative law?
+================================================================================
+
+Rank 1 | File: 06_60.xml | Base Score: 0.2124 | Rerank Score: 3.4968
+Judicial review or appeal is typically limited to questions of law, as for example in s 44 of the Administrative Appeals Tribunal Act 1975 (Cth), or confined to statutory grounds such as those contained in ss 17 and 20 of the Judicial Review Act 2000 (Tas) or common law grounds: Craig v South Australia [1995] HCA 58 ; (1985) 184 CLR 163. A full appeal on fact and law suggests that the body whose decisions are subject to such rights is a court because it is a part of a system which resolves, at trial and appellate level, legal and factual disputes between citizens and between state and citizen. 65 Other features relied on by the applicants are at best equivocal as to the characterisation of the Tribunal as a court of a State. For example, to provide that the Tribunal is not bound by the rules of evidence is to do no more than legislate as to the law of evidence which is to be applied in a particular Tasmanian court. The common law of evidence has already been substantially modified by the Evidence Act 2001 (Tas). 66 Pointing out that the Tribunal is called a tribunal, not a court, the applicants referred to Tana v Baxter (1986) 180 CLR 572.
+
+Rank 2 | File: 07_1567.xml | Base Score: 0.1673 | Rerank Score: 3.3156
+Moreover, if the arrangement between the appellants was illegal, the continuing financial injury to the respondents, caused by the arrangement, would be remedied by a grant of the injunction they sought. ' 
+
+
+ Judicial Review 
+ 
+89 Given the separation of powers between the Legislature, the Executive and the Judiciary for which the Constitution of the Commonwealth of Australia ('the Constitution ') provides, the opportunity for judicial review of administrative action is not unlimited (see per McHugh and Gummow JJ in Re Minister for Immigration and Multicultural and Indigenous Affairs; Ex parte Lam [2003] HCA 6 ; (2003) 214 CLR 1 ('Lam') at [76]-[77]). 90 Under s 64 of the Constitution the Governor-General was empowered to appoint 'officers to administer such departments of State of the Commonwealth as the Governor-General in Council may establish'. Such officers were to 'be members of the Federal Executive Council' and to 'be the Queen's Ministers of State for the Commonwealth'. The Minister is such an officer. 91 Under s 71 of the Constitution , the judicial power of the Commonwealth was vested in the High Court of Australia and, relevantly, 'in such other federal courts as the Parliament creates'. 92 By virtue of s 75(v) of the Constitution , original jurisdiction was conferred on the High Court of Australia in all 'matters' in which 'a writ of Mandamus or prohibition or an injunction' was 'sought against an officer of the Commonwealth'.
+
+Rank 3 | File: 09_170.xml | Base Score: 0.1499 | Rerank Score: 2.4108
+This is an application under ss 5 and 6 of the Administrative Decisions (Judicial Review) Act 1977 (Cth) ("the ADJR Act"), and under s 39B of the Judiciary Act 1903 (Cth), in which the applicant challenges the legality of a summons issued by the respondent, an examiner under the Australian Crime Commission Act 2002 (Cth) ("the ACC Act"), and of the continuation before the respondent of an examination under Div 2 of Pt II of the ACC Act. The Australian Crime Commission ("the Commission") is established by s 7 of the ACC Act. It consists of the CEO, the examiners (of which the respondent is one) and the staff of the Commission. There is a Board of the Commission ("the Board") (which is not, however, part of the Commission). Amongst the functions of the Board under s 7C(1) of the ACC Act are the following: 
+ (c) to authorise, in writing, the [Commission] to undertake intelligence operations or to investigate matters relating to federally relevant criminal activity;
+ (d) to determine, in writing, whether such an operation is a special operation or whether such an investigation is a special investigation;.... 
+
+With respect to the function referred to in par (d), subs (3) of s 7C provides that the Board may determine in writing that an investigation into matters relating to a "federally relevant criminal activity" is a "special investigation".
+
+
+================================================================================
+Query 10: What constitutes unfair dismissal under Australian employment law?
+================================================================================
+
+Rank 1 | File: 08_1585.xml | Base Score: 0.1880 | Rerank Score: 1.6176
+INTRODUCTION 
+ 
+ 1 On 12 September 2007, the applicant was informed, by letter, that his employment with the respondent was terminated for misconduct. The applicant lodged an application in this Court on 17 September 2007 alleging he was unlawfully dismissed because he was a member and delegate of the National Union of Workers of Australia (NUW). He alleged his dismissal contravened s 792 of the Workplace Relations Act 1996 (Cth) (the WR Act). An allegation was also made that he was dismissed for engaging in protected industrial action. Dismissal for this reason is prohibited by s 448 of the WR Act. 2 The applicant sought interim relief under s 838 of the WR Act and s 23 of the Federal Court of Australia Act 1976 (Cth). The application for interim relief was heard on 26 September 2007. On 27 September 2007, I ordered that the applicant be reinstated to the position he formerly held with the respondent until further order or until determination of these proceedings: Rojas v Esselte Australia Pty Ltd [2007] FCA 1506. THE LEGISLATIVE SCHEME 
+ 
+3 Before considering the evidence, it is desirable to say something briefly about the legislative scheme, although it will be discussed in more detail later in these reasons. The applicant has made an application under s 807 of the WR Act alleging contravention of s 792 of the WR Act.
+
+Rank 2 | File: 08_1224.xml | Base Score: 0.1490 | Rerank Score: 1.0938
+30 There may be circumstances where the conduct of the employer towards an employee is such that the employee, upon leaving, can assert that he or she has been constructively dismissed, triggering whatever rights the employee may have upon dismissal ( Westen v Union des Assurances de Paris (1996) 88 IR 259 at 261; Brackenridge v Toyota Motor Corporation Australia Ltd (1996) 142 ALR 99 at 106; in the case of position redundancy see Commonwealth Bank of Australia v Finance Sector Union of Australia [2002] FCAFC 193 ; (2002) 125 FCR 9 at [27] ; cf Martech International Pty Ltd v Energy World Corp Ltd [2007] FCAFC 35 at [19] ). In the present case, that may have included a claim pursuant to cl 21.5. That case could have been pursued by or on behalf of these employees. That course was adopted in Finance Sector Union of Australia v Commonwealth Bank of Australia [2001] FCA 1613 , (2001) 111 IR 241 (although set aside in the result on appeal Commonwealth Bank of Australia v Finance Sector Union of Australia [2002] FCAFC 193 ; 125 FCR 9). Rather, the choice was made here to seek to use the freedom of association provisions to, in effect, act as a means of specific enforcement of cl 21.5. 31 In short, whatever the employees suffered by way of psychological distress was not caused by any act of Tristar.
+
+Rank 3 | File: 06_828.xml | Base Score: 0.1296 | Rerank Score: 0.9094
+That conduct falls squarely within s 298K. It is conduct which is directed to individual employees in the sense spoken of by the Full Court in BHP Iron-ore Pty Ltd v Australian Workers' Union, albeit all individual employees. ' 
+ 
+ 
+
+355 His Honour concluded that the "spill and fill" proposal for the selection of certain employees within a group for involuntary redundancy was not "sufficiently proximate" to any of the forms of contravening conduct contained within s 298K. Dismissal of all employees for a prohibited reason is squarely within s 298K notwithstanding that they represent potentially a large group. Dismissal of employees for a prohibited reason within a group of employees some of whom may be dismissed for a non-prohibited reason does not remove the individual or bilateral character of the prejudicial conduct on the part of the employer as against that employee. It would be an odd thing if the statutory quality of contravening conduct in respect of some employees could be dissolved amongst a group and remedial entitlements otherwise available to the affected individuals thereby lost. The question is whether the conduct, from the standpoint of the individual, notwithstanding others, represents conduct carried out for a prohibited purpose.
+
+
+================================================================================
+Query 11: Explain the rules around search and seizure under Australian criminal law.
+================================================================================
+
+Rank 1 | File: 08_1201.xml | Base Score: 0.1281 | Rerank Score: 3.7020
+37 Although there may be no enforceable right to privacy presently recognised in Australian law (cf Australian Broadcasting Corp v Lenah Game Meats Pty Ltd [2001] HCA 63 , 208 CLR 199) , such compulsory powers of search and seizure as are conferred by both Commonwealth and State legislation should not be construed as authorising any greater intrusion into the private affairs of individuals than is unambiguously authorised. 38 In some circumstances there may be a " tension " between common law privileges and " the efficient exercise of statutory powers ": Halliday v Nevill [1984] HCA 80 ; (1984) 155 CLR 1 at 20 per Brennan J; New South Wales v Corbett [2007] HCA 32 at [16] ---[22], [2007] HCA 32 ; 230 CLR 606 at 610---12 per Kirby J. Not in the context of the exercise of statutory powers facilitating the investigation of criminal offences, but rather in the context of construing that which is permitted by O 25B of the Federal Court Rules , there is not considered to be any such " tension ". The convenience of the position being advocated by the Applicants may well be understandable, but it is not a sufficient reason to depart from the importance accorded by the common law to an individual's right to preserve the privacy and confidentiality of his own documents.
+
+Rank 2 | File: 06_1519.xml | Base Score: 0.1246 | Rerank Score: 3.2690
+Commissioner, Australian Federal Police by his Solicitor, Mr Baden Powell 
+ 
+30 An undertaking that:
+ 
+ 
+ (a) any search and seizure of the Discs, or the information contained in the Discs, will conducted in accordance with the guidelines on claims for legal professional privilege contained in the Commonwealth Director of Public Prosecutions search warrants manual, October 2005; 
+ 
+ (b) any Discs, or information contained on the Discs, seized by the Australian Federal Police will be scanned or copied onto computer discs with one copy of same provided to Mr McLeod in his capacity as liquidator of JMA and Entrepreneur and the seized Discs being provided to the Australian Government Solicitor.
+
+Rank 3 | File: 08_1686.xml | Base Score: 0.2022 | Rerank Score: 3.1464
+2. A declaration that the documents and other materials seized by Australian Federal Police agents at the premises of the Applicants pursuant to the search warrants each issued under section 3E of the Crimes Act 1914 (Cth) by J Karam and dated 30 July 2007 ('the search warrants') contain: 
+ 
+ 
+ 
+ 
+ 
+ (a) communications the subject of legal professional privilege; and 
+ 
+ (b) documents and other material outside the scope of the warrant. 3. A declaration that the seizure and/or retention of some or all of the electronic materials, or some or all of the images of the electronic materials from materials seized by Australian Federal Police agents at the premises of the Applicants pursuant to two search warrants each issued under section 3E of the Crimes Act 1914 (Cth) by J Karam and dated 30 July 2007 under the search warrants was unlawful, on the basis that materials allegedly satisfying the three conditions of the search warrants did not do so, for the reason that the Third Condition of the search warrants was void and, alternatively, was not authorised by the search warrants, or at all. 4. A declaration that the First Respondent, his officers, employees, servants and agents, are not, and each of them is not, entitled to use the communications and documents and other materials referred to in paragraphs 2(a) and 2(b) and 3 above . 5.
+
+
+================================================================================
+Query 12: What are the requirements for granting bail in Australia?
+================================================================================
+
+Rank 1 | File: 09_262.xml | Base Score: 0.1609 | Rerank Score: 3.6846
+Although directly referrable to the bail provisions under s 21(6)(f)(iv) of the Act it is, nonetheless, apt to a consideration of a bail application under s 15(6) of the Act and the rationale for the "special circumstances" requirement, which was described in these terms: 
+ [60] Because the typical extraditee is a person who has fled from another country after committing a serious crime, granting bail to that person provides a further opportunity for him or her to flee from the reach of the extraditing country. The ever present risk of flight in extradition situations was the rationale for the "special circumstances" requirement of s 15(6) of the Act [107]. The Explanatory Memorandum stated [108]: 
+
+ 
+ "Sub-clause (6) provides that a person shall not be granted bail unless there are special circumstances. Such a provision is considered necessary because experience has shown that there is a very high risk of persons sought for extraditable offences absconding. In many cases the person is in Australia to avoid arrest in the country where he is alleged to have committed the offence, ie the person left the jurisdiction to avoid justice. " 
+
+ The circumstances relied upon by the second respondent in granting bail is more referrable to a bail application in the criminal jurisdiction generally. However, the position in extradition cases is different as appears from Cabal at [45] and [72]: 
+ [45] However, it does not follow that the principles that apply in criminal cases are fully applicable to extradition cases.
+
+Rank 2 | File: 09_1597.xml | Base Score: 0.1043 | Rerank Score: 3.3780
+Schedule 1 
+ 
+Pursuant to section 23 of the Federal Court of Australia Act 1976 and Order 4 Rule 9 of the Federal Court Rules the Applicant be released on bail on the following terms and conditions:
+ $50,000.00 personal undertaking; $75,000.00 surety; Surrender all passports and not apply for any passports; Not to approach within 100 metres of any point of the domestic or international departure and not to leave Australia; and Reside at 2/10 Millar Place, Willetton, WA. I certify that the preceding fifty-six (56) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice McKerracher. Associate:
+ 
+ 
+Dated: 24 December 2009
+ 
+ Counsel for the Applicant: M J McCusker QC 
+ 
+ Solicitor for the Applicant: Fiocco's Lawyers 
+ 
+ Counsel for the First and Second Respondents: J Allanson SC 
+ 
+ Solicitor for the First and Second Respondents: Australian Government Solicitor 
+ 
+ Counsel for the Third and Fourth Respondents: M Ashford 
+ 
+ Solicitor for the Third and Fourth Respondents: State Solicitors Office 
+ Date of Hearing: 16 December 2009 
+ 
+ Date of Judgment: 24 December 2009 
+ 
+
+ 
+ AustLII: Copyright Policy | Disclaimers | Privacy Policy | Feedback 
+ URL: http://www.austlii.edu.au/au/cases/cth/FCA/2009/1597.html
+
+Rank 3 | File: 08_1335.xml | Base Score: 0.1887 | Rerank Score: 3.2613
+11 As a separate and second consideration, but again, taking into account those factors, I consider that they also support a conclusion that there is no real risk of flight. 12 That being so, in my view, this is an appropriate circumstance in which bail should be granted under the provisions of the Act. I have been provided with a minute of the orders which are sought in relation to the grant of bail. In relation to that minute, there are specific conditions and terms which I am also informed by both counsel are the same conditions and terms which have applied in respect of the applicant's bail since he was originally arrested. Specifically, the terms and conditions are that the applicant provide a $50,000 personal undertaking, $75,000 surety; that he surrender all passports and not apply for any passports; that he is not to approach within one hundred metres of any point of domestic or international departure; is not to leave Australia; and is to continue to reside at the address at Willetton which is specified in the terms of the order. 13 Accordingly, I will make the orders as proposed in the minute as amended and there will be orders in terms of the abridgment of time, liberty to apply and costs of the motion being reserved.
+
+
+================================================================================
+Query 13: Describe the legal concept of duty of care in Australian negligence cases.
+================================================================================
+
+Rank 1 | File: 09_1487.xml | Base Score: 0.1108 | Rerank Score: 5.0186
+DUTY OF CARE --- PURE ECONOMIC LOSS 
+ In Sutherland Shire Council v Heyman [1985] HCA 41 ; (1985) 157 CLR 424 at 458-459 Mason J (as his Honour then was) stated (footnotes omitted): 
+ 
+ It is now well settled that a public authority may be subject to a common law duty of care when it exercises a statutory power or performs a statutory duty. The principle that when statutory powers are conferred they must be exercised with reasonable care, so that if those who exercise them could by reasonable precaution have prevented an injury which has been occasioned, and was likely to be occasioned, by their exercise, damages for negligence may be recovered ( Caledonian Collieries Ltd. v. Speirs ; Benning v. Wong ) has been applied mainly to private Acts. However, it has been frequently applied in Australia to public authorities, notably public utilities, exercising powers under public statutes: Sermon v. Commissioner of Railways ; Essendon Corporation v. McSweeney ; Metropolitan Gas Co. v. Melbourne Corporation ; South Australian Railways Commissioner v. Barnes ; Cox Bros. (Australia) Ltd. v. Commissioner of Waterworks ; South Australian Railways Commissioner v. Riggs ; Voli v. Inglewood Shire Council ; Birch v. Central West County District Council .
+
+Rank 2 | File: 09_1487.xml | Base Score: 0.1401 | Rerank Score: 3.8713
+The respondents contend that no cause of action in negligence can lie against a body such as CASA because CASA does not owe a duty of care to persons in the position of the applicants. In that regard CASA relies on Commonwealth v Griffiths [2007] NSWCA 370 ; (2007) 70 NSWLR 268 at [125] - [131] . The applicants contend that Griffiths turns on a finding that the Australian Government Analytical Laboratories in carrying out the role of analysing a substance seized by the police and alleged to be a prohibited drug was playing an 'integral role in law enforcement' such that the statutory role and the duties of the statutory role were inconsistent with a common law duty of care owed to persons who might be affected by their actions. In one sense there may be a parallel with CASA's role in that regard. In Sullivan v Moody [2001] HCA 59 ; (2001) 207 CLR 562 , the High Court said (at [60]): 
+ 
+ The circumstance that a defendant owes a duty of care to a third party, or is subject to statutory obligations which constrain the manner in which powers or discretions may be exercised, does not of itself rule out the possibility that a duty of care is owed to a plaintiff. People may be subject to a number of duties, at least provided they are not irreconcilable.
+
+Rank 3 | File: 09_305.xml | Base Score: 0.0909 | Rerank Score: 3.4400
+There are cases, and this is one, where to find a duty of care would so cut across other legal principles as to impair their proper application and thus lead to the conclusion that there is no duty of care of the kind asserted. [54] The present cases can be seen as focusing as much upon the communication of information by the respondents to the appellants and to third parties as upon the competence with which examinations or other procedures were conducted. The core of the complaint by each appellant is that he was injured as a result of what he, and others, were told. At once, then, it can be seen that there is an intersection with the law of defamation which resolves the competing interests of the parties through well-developed principles about privilege and the like. To apply the law of negligence in the present case would resolve that competition on an altogether different basis [cf Spring v Guardian Assurance Plc [1994] UKHL 7 ; [1995] 2 AC 296]. It would allow recovery of damages for publishing statements to the discredit of a person where the law of defamation would not. [55] More fundamentally, however, these cases present a question about coherence of the law. Considering whether the persons who reported their suspicions about each appellant owed that appellant a duty of care must begin from the recognition that those who made the report had other responsibilities.
+
+
+================================================================================
+Query 14: What is the role of precedent in the Australian legal system?
+================================================================================
+
+Rank 1 | File: 09_1227.xml | Base Score: 0.1347 | Rerank Score: -2.9303
+What might also be said to arise from this analysis is that the legislative scheme of the Judiciary Act Pt VIIIA is designed to impose a set of federal law requirements as to who can practise as a legal practitioner in federal courts, or in relation to matters in state or territory courts that involve the exercise of federal jurisdiction or federal-type jurisdiction, that complements, but also builds upon State (and Territory) regulations in this regard, as some of the authorities discussed below demonstrate. The two questions stated also arise against a background of detailed regulation of the legal profession over many years in Australia. There has long been legislation governing the entitlement of a legal practitioner to practise in Australian courts and to charge and recover fees, particularly where they do not hold a relevant practising certificate --- that is to say, are uncertificated. In this regard, the laws of the Australian States and Territories have tended to follow the form of such regulation first introduced by legislation in the United Kingdom. Federal law, however, did not initially deal directly with the regulation and disciplining of legal practitioners. As explained above, the legislative scheme of Part VIIIA of the Judiciary Act concerning the right of legal practitioners to practise in federal courts , while complementary to that of existing State and Territory legislation, has changed this position to some extent.
+
+Rank 2 | File: 09_1052.xml | Base Score: 0.1141 | Rerank Score: -2.9612
+The legislation
+ By s 59(2)(g) of the Federal Court of Australia Act 1976 (Cth) ("the Federal Court Act"), the judges of the Court or a majority of them are empowered to make rules of Court for or in relation to "the service and execution of the process of the Court, including the manner in which and the extent to which the process of the Court, or notice of any such process, may be served out of the jurisdiction of the Court". Order 8 r 2 of the Federal Court Rules is undoubtedly made in the exercise of this power.
+
+Rank 3 | File: 06_438.xml | Base Score: 0.1027 | Rerank Score: -3.0194
+Clearly enough, the standards to be applied to that issue are those which prevail in the Australian community. No court should be eager to pass judgment upon the process of another judicial system, particularly where the two systems share a common jurisprudential history and operate in societies which are, in many respects, similar. This is particularly so where, as in the case of Australia and New Zealand, the respective legislatures have demonstrated a clear desire to facilitate interaction at all levels. We do not suggest that criminal trials in New Zealand are generally more or less fair than similar proceedings in this country. However, on this very important procedural point, the two systems have diverged. In considering the present application, we can only apply the decision of our own ultimate appellate court. We do not consider that every minor difference in procedure would justify our declining extradition. Such a step will only be justified if the procedure likely to be followed in the country to which extradition is sought will render it unjust or oppressive to surrender the alleged offender. In the present case, injustice or oppression must be measured by considering the High Court's view concerning the practice which will be followed in New Zealand, which view is that it is most unlikely to result in a fair trial.
+
+
+================================================================================
+Query 15: How are damages calculated in Australian personal injury cases?
+================================================================================
+
+Rank 1 | File: 08_454.xml | Base Score: 0.1031 | Rerank Score: 3.4781
+Subject to any relevant statute, an award of damages in a personal injuries claim, even if calculated by reference to lost income, is not income according to ordinary concepts for the purposes of s 6-5 of the ITAA : Cullen v Trapell (endorsing the judgment of Gibbs J in Atlas Tiles ); Groves v United Pacific Transport. The reason is that the award of damages is, in point of principle, for impairment of the plaintiff's earning capacity and not for loss of income as such: Graham v Baker. 4. This proposition applies even if the award is limited to damages in respect of lost income (in the sense explained in the previous paragraph) during a period prior to trial: Graham v Baker ; Groves v United Public Transport. 5. It follows that there is a clear distinction between the character of a payment for the purposes of s 6-5 of the ITAA and the manner of its calculation or quantification: Tinkler v FCT. Indeed, the latter might provide a quite misleading guide to the former: Tinkler v FCT. 6. The Gourley principle applies in Australia to an award of damages for wrongful dismissal, notwithstanding that the calculation of damages is based on the precise amount of income lost by the plaintiff in consequence of the wrongful termination of his or her employment: Atlas Tiles, per Gibbs J, approved in Cullen v Trapell. A damages award in such a case is not income according to ordinary concepts. 7.
+
+Rank 2 | File: 07_1625.xml | Base Score: 0.1004 | Rerank Score: 2.1185
+But the reference to the general range of damages does identify the highest sums awarded for the non-economic consequences of personal injury as what might be called a presumptive outer limit to awards for defamation. So much follows from the fact that rarely, if ever, will the harm done by a defamation be greater than the most serious form of physical injury which leads to permanent and serious disabilities. And if that represents the presumptive outer limit to awards for defamation, each particular award that is made must find a place within a range which is marked out in that way. ' 
+
+
+ 
+ In Random House Australia Pty Ltd v Abbott [1999] FCA 1538 ; (1999) 167 ALR 224 a Full Court comprising Beaumont, Miles and Drummond JJ considered awards of damages that had been made in respect of a book entitled 'Goodbye Jerusalem: Night Thoughts of a Labor Outsider' written by Mr Bob Ellis and published by Random House Australia Pty Ltd. In that case modest amounts had been awarded by the Primary Judge by way of compensatory and aggravated damages broken down as to damages for injury to reputation, damages for injury to feelings and aggravated damages. One matter which was addressed on the hearing of the appeal was the relevance of a defendant's failure to apologise in determining both ordinary compensatory damages and aggravated compensatory damages. The Court held that a failure to apologise could be taken into account on both aspects of the matter.
+
+Rank 3 | File: 07_1236.xml | Base Score: 0.0870 | Rerank Score: 1.5140
+The respondent is to pay interest on damages of $5,000 at an annual rate of 5% to be calculated from 16 November 2004 pursuant to s 51A(1)(a) Federal Court of Australia Act 1976 (Cth). In respect of QUD522/2005: 
+ 
+ 1. The respondent is to pay the applicant damages in the sum of $3,000. 2. The respondent is to pay interest on damages of $3,000 at an annual rate of 5% to be calculated from 19 November 2004 pursuant to s 51A(1)(a) Federal Court of Australia Act 1976 (Cth). In respect of QUD324/2005, QUD522/2005 and QUD211/2006 
+ 
+ 1. The respondent is to pay the applicant's costs in QUD324 of 2005 and QUD522 of 2005 other than the applicant's costs associated with the Notice of Motion to exclude the evidence of Dr Unwin, to be taxed if not agreed. 2. The applicant is to pay the respondent's costs of the Notice of Motion to exclude the evidence of Dr Unwin, to be taxed if not agreed. 3. The applicant is to pay the respondent's costs that relate solely to the respondent's costs in QUD211 of 2006, to be taxed if not agreed. I certify that the preceding twenty-five (25) numbered paragraphs are a true copy of the Reasons for Judgment herein of the Honourable Justice Collier.
+
+
+================================================================================
+Query 16: Can a company be found guilty of a criminal offence in Australia?
+================================================================================
+
+Rank 1 | File: 07_1625.xml | Base Score: 0.0994 | Rerank Score: 3.2721
+(2) Further, for that between about 14 March 2000 and 13 December 2000 at Sydney she was knowingly concerned in Hui Ouyang defrauding the Commonwealth who dishonestly caused false invoices to be presented to the Australian Customs Service in relation to the importation of windscreens by National Auto Glass Supplies Australia Pty Limited, ACN 081 814 342. ' 
+ 
+ 
+ 
+ Maximum penalties for each of the offences charged was imprisonment for 10 years or a fine of $110, 000 or both. It is clear that any convictions in respect of the offences charged would automatically disqualify the convicted person from managing corporations, with the consequence that the convicted party would cease to be a director of any company and subject to a five year period of disqualification calculated in accordance with s 206B(2) of the Corporations Act . On 30 April 2004 Goldring DCJ convicted the second applicant in respect of the two offences to which she pleaded guilty and also convicted the third applicant in respect of the two offences to which he pleaded guilty. He proceeded to fine the second applicant $30,000 in respect of each offence. In addition, in respect of each offence, his Honour sentenced the second applicant to a term of 12 months' imprisonment and ordered that the sentences be partly cumulative for a period of six months and partly concurrent. His Honour also fined the third applicant a sum of $30,000 in respect of each offence charged against him.
+
+Rank 2 | File: 07_1684.xml | Base Score: 0.1122 | Rerank Score: 2.3803
+However, it is not stated in each case whether the particular company actually lost money. In some cases it is stated that there was a loss to the company. 3. If it is accepted that at the time the orders were placed, there was no intention or ability to pay for the goods, the conduct would amount to obtaining a valuable thing or a financial advantage by deception contrary to section 178BA of the Crimes Act 1900 (NSW) . The maximum penalty for an offence against section 178BA is imprisonment for 5 years. ' 
+ 
+ 
+
+51 This offence became the subject of par (1) in Senator Ellison's s 16 notice. The elements of Chapter 36, section 2(1) of the Penal Code were not before the Minister. As the Full Court recognised in Williams 157 FCR at 298 [49], the Attorney-General or responsible Minister cannot be taken to be an expert in the foreign law. Rather, the Minister must be expected to form a view about whether identified acts or omissions (or equivalent conduct) would have constituted an extradition offence in relation to Australia. 52 The allegations concerning Mr Tervonen were set out in the CDPP's advice at a level of generality which did not identify any precise act or omission which Mr Tervonen himself was alleged to have done or omitted to do. Rather, Mr Tervonen and others were alleged to have misled a number of parties.
+
+Rank 3 | File: 07_1625.xml | Base Score: 0.0434 | Rerank Score: 1.4251
+In making this submission, the applicants appear to be placing reliance upon the following passage from the 15 September email, namely: 
+ 
+ 'Australia Government has power to seize stock and company if crime has been committed, therefore FYG could lose all its Australia supplied stock orders and payments, due to NAGS and Maggie Los, possible prosection (sic) , also after recent Australia customs prosection (sic) cases lost by Maggie, also the USA Mitchell logo case lost by Maggie has caused big character problem for Maggie Lo. ' (emphasis added) 
+
+
+ 
+In my opinion it cannot be said that in the 15 September email it was represented that the first applicant's criminal conduct was such that it posed a risk to FYG of losing its Australian stock orders and payment for them. It is clear that the foreshadowed possibility of the loss of stock orders and payments was predicated upon the words 'if crime has been committed'. There was no allegation that crime had been committed. In the foregoing circumstances the first applicant has no right to declaratory or injunctive relief in respect of the alleged contraventions of s 52 of the Trade Practices Act and/or s 42 of the Fair Trading Act in respect of the publication by the third respondent of the 15 September email. Nor is the first applicant entitled to any relief against the first and/or second respondents in respect of the 15 September email.
+
+
+================================================================================
+Query 17: What are the principles of equity recognized by Australian courts?
+================================================================================
+
+Rank 1 | File: 07_1189.xml | Base Score: 0.0761 | Rerank Score: 2.2991
+63 There is no jurisdiction in an Australian court of equity to declare an owner of property to be a trustee of that property for another merely on the ground that, having regard to all the circumstances, it would be fair so to declare: Wirth v Wirth [1956] HCA 71 ; (1956) 98 CLR 228 at 232 ; Hepworth v Hepworth [1963] HCA 49 ; (1963) 110 CLR 309 at 318 ; Bloch v Bloch [1981] HCA 56 ; (1981) 180 CLR 390 at 400; Muschinski v Dodds ('Muschinski') [1985] HCA 78 ; (1985) 160 CLR 583 at 594-5, 608 and 615-6. 64 In rejecting the notion that a constructive trust will be imposed in accordance with idiosyncratic notions of what is just and fair Deane J in Muschinski acknowledged that general notions of fairness and justice are relevant to the traditional concept of unconscionable conduct, this being a concept which underlies fundamental equitable concepts and doctrines, including the constructive trust. His Honour pointed out that the constructive trust serves as a remedy which equity imposes regardless of actual or presumed agreement or intention to preclude the retention or assertion of beneficial ownership of property to the extent that such retention or assertion would be contrary to equitable principle (see per Mason CJ, Wilson and Deane JJ in Baumgartner v Baumgartner ('Baumgartner') [1987] HCA 59 ; (1987) 164 CLR 137 at 148.
+
+Rank 2 | File: 06_734.xml | Base Score: 0.0872 | Rerank Score: 1.9750
+The principle of comity is applied in other Australian courts in respect of decisions of single judges: I note, by way of illustration, Durovic trading as Shell Tornik Roadhouse v Judge , unreported Supreme Court of New South Wales, Rolfe J, 25 February 1997; Zotovic v Dobel Boat Hire Pty Ltd (1985) 62 ACTR 29 at 32 (per Blackburn CJ); Anteden Pty Ltd v Glen Eira City Council [2000] VSC 366 par 25 (per Balmford J); McDermott Projects Pty Ltd v Chadwell Pty Ltd (2002) 2 QdR 363 at 365 (per Holmes J); and Swetnam Brothers Pty Ltd v Grundy , unreported Supreme Court of Tasmania, Wright J, 14 March 1997. The principle of judicial comity as between Courts of equal status is long-standing in the United Kingdom; the principle is discussed, with many case citations, in Halsbury's Law of England , 4 th Edition Reissue vol 37 at par 1244. I also note similar comments in A MacAdam and J Pyke, Judicial Reasoning and the Doctrine of Precedent in Australia (Butterworths, Sydney, 1998) at 179-180. 52 Accordingly, in my view it would be appropriate to follow the principle articulated in Essenbourne and followed by three other judges of the Federal Court before me, unless in my view the principle is clearly wrong, or the facts before me are distinguishable. Conclusion 
+ 
+ 53 Notwithstanding powerful submissions by the Commissioner, I am not satisfied that the principle articulated by Kiefel J in Essenbourne is clearly wrong.
+
+Rank 3 | File: 07_1063.xml | Base Score: 0.1175 | Rerank Score: 0.1764
+His affidavit answered questions that had been put to him by the solicitors for the applicants relating to the effect in English law of the transactions and events in question. The answers that his Lordship gave do not suggest any difference between English and Australian law in relation to those questions. 59 The following summary account of general principles is in accord with his Lordship's affidavit. (1) The English legislation that made a "debt or other legal thing in action" assignable in law was s 25(6) of the Supreme Court of Judicature Act 1873 (UK) and the provision is now found in s 136(1) of the Law of Property Act 1925 (UK). (2) Although the common law did not recognise assignments of legal choses in action, equitable assignments of them were recognised. Lord Millett states that "[e]quitable assignments of legal choses in action are of great antiquity". I note that in his recent scholarly work, The Assignment of Contractual Rights (Hart Publishing, 2006), Dr Tolhurst states (at [2.16]): 
+ 
+ 
+ By the beginning of the eighteenth century, it was settled that equity would recognise the assignment of a legal chose in action and viewed the common law's position as "absurd" [ Master v Miller (1791) 4 TR 320 at 340 (100 ER 1042 at 1053) per Buller J].
+
+
+================================================================================
+Query 18: How does the Australian High Court handle constitutional disputes?
+================================================================================
+
+Rank 1 | File: 09_487.xml | Base Score: 0.1056 | Rerank Score: 3.6401
+Section 354(1) establishes the High Court of Australia as the Court of Disputed Returns. Jurisdiction to determine any dispute as to the validity of any election or return is vested exclusively in the Court of Disputed Returns: Bryant v Commonwealth of Australia (unreported, FCA, Tamberlin J, NG 1084 of 1998, 20 October 1998).
+
+Rank 2 | File: 08_107.xml | Base Score: 0.1522 | Rerank Score: 1.0278
+5 The appellate jurisdiction of the Federal Court of Australia includes a jurisdiction to hear and determine appeals from judgments of a Court of a State exercising federal jurisdiction, in such cases 'as are provided by any other Act' (s 24(1)(c) Federal Court of Australia Act 1976 ). Section 131B(2) of the Copyright Act 1968 (Cth) (' Copyright Act ') provides that an appeal lies from a decision of a Court of a State under Part V of the Copyright Act to the Federal Court of Australia. Section 39(2) of the Judiciary Act 1903 (Cth) provides that 'the several Courts of the States shall within the limits of their several jurisdictions, ... be invested with federal jurisdiction, in all matters in which the High Court has original jurisdiction or in which original jurisdiction can be conferred upon it ...'. The High Court has original jurisdiction in the five matters set out in s 75 of the Constitution . By s 76 of the Constitution , the Parliament may confer original jurisdiction on the High Court in any matter arising under any laws made by the Parliament (s 76(ii)). Additionally, by s 77(iii) of the Constitution , the Parliament may make laws investing any Court of a State with federal jurisdiction in respect of the nine matters identified in ss 75 and 76 of the Constitution .
+
+Rank 3 | File: 07_1273.xml | Base Score: 0.1506 | Rerank Score: 0.6164
+8 Of this jurisdiction, David Jackson QC has commented in "Development of judicial review in Australia over the last 10 Years: The growth of constitutional writs" (2004) 12 AJ Admin L 22 at 22:
+ 
+ Section 75(v) is the only provision of the Constitution which provides expressly for judicial review of officers of the Commonwealth, although s 75(iii) goes close. Three features should be noted immediately about s 75(v): 
+ 
+ 
+ 
+ (a) it is part of the High Court's original, rather than appellate, jurisdiction;
+ (b) the grounds on which a constitutional writ may be sought may, but need not be, constitutional --- the case may simply be one of statutory ultra vires;
+ (c) the High Court's jurisdiction, being conferred by the Constitution itself, cannot be taken away by legislation. 9 The importance of s 75(v) of the Constitution (which confers jurisdiction on the High Court, which jurisdiction is the same as is conferred on the Federal Court by s 476A(2) of the Migration Act ) cannot be over-estimated. That provision is a primary constitutional underpinning of the Rule of Law in Australia. 10 While ss 75 and 76 of the Australian Constitution are derived from Article III Section 2 of the Constitution of the United States, there is no counterpart of s 75(v) to be found in the Constitution of the United States.
+
+
+================================================================================
+Query 19: Explain how family law handles child custody in Australia.
+================================================================================
+
+Rank 1 | File: 06_1642.xml | Base Score: 0.0650 | Rerank Score: 0.4276
+Persons with custody of a child but not enjoying the status of a person recognised under Australian law as a parent or an adoptive parent, and being vulnerable to the Minister's (or in this case the SA Manager for Adoption's) powers under s 7(2) of the Immigration Act, are therefore eligible for the double orphan pension. As the Immigration Act and the Act and the Family Assistance Act intersect on their operation, at least in respect of eligibility for the double orphan pension, they should be regarded as operating with consistently expressed meanings except where there is clearly a contrary intendment (e.g. the definition of "intending adoptive parent" in the Immigration Act): see e.g. per Brennan J in Project Blue Sky Inc v Australian Broadcasting Authority [1998] HCA 28 ; (1998) 194 CLR 355 at 367-8. That approach maintains that consistency. 40 The extensive research of counsel for the Secretary identified other legislation in which the term "adopted" might be taken in its context and for the purposes of particular legislation to include an adoption overseas which is not recognised in Australia, even though the definition does not explicitly say so. Examples include s 60D of the Family Law Act 1975 (Cth), ss 5 and 7 of the Child Support (Assessment) Act 1989 (Cth), and ss 23 and 23B of the Marriage Act 1961 (Cth).
+
+Rank 2 | File: 07_626.xml | Base Score: 0.1000 | Rerank Score: -1.1165
+In general terms, the child's best interests will be served if he or she remains with his or her parents. However, countervailing considerations which may point to the child's best interests being served by separation from the non-citizen include, but are not limited to, any evidence that the child has been abused or neglected, or suffered or experienced any physical or emotional trauma arising from the non-citizen's conduct. 15 Under the ambit of "other considerations" the Direction includes factors such as the extent of disruption to the non-citizen's family, business and other ties to the Australian community, marriage to or a relationship with an Australian citizen or permanent resident, and the degree of hardship which would be caused to immediate family members lawfully resident in Australia. The Direction provides that factors such as these should be taken into account but generally be given less individual weight than the primary considerations. 16 In relation to primary consideration (a), the protection of the Australian community, the Minister took into account the seriousness and nature of the applicant's conduct, the likelihood that such conduct might be repeated, and the question of general deterrence. She found that the conviction of manslaughter involved an offence which was very serious. She took into account the fact that in addition to his manslaughter conviction he had a number of other convictions for various offences. These included convictions involving acts of physical violence and the use or possession of weapons.
+
+Rank 3 | File: 09_983.xml | Base Score: 0.0972 | Rerank Score: -1.2086
+4.4.4 In considering an application under s 13(9), applications are not usually approved unless all of the following are satisfied: 
+ 
+ the child is a 'permanent resident' (see 1.4) or meets the requirements for migration to, or permanent residence in, Australia and the child has a 'responsible parent' (see 1.6) who is an Australian citizen and who consents to the application (Note: if the child is a ward of the Minister for Immigration (Guardianship of Children) Act 1946 (eg an unaccompanied humanitarian minor (UHM) or certain cases of overseas adoption), the Minister's parental rights are exclusive and the case should be referred to Family Section, National Office or the State/Territory office Settlement area or UHM Coordinator for advice) and if the child is under 16 years old, they are living with that responsible parent. If the applicant is in the care of another person (eg brother, aunt or uncle), the case is to be referred to a delegate of at least APS 6 level. (Note: this would include an applicant who is a 'non-ward' under the UHM program --- see 1.6.12)
+ 
+ 
+ 4.4.5 Delegates are reminded that they must consider the full circumstances of the case. For example, it may be appropriate to approve a case outside policy if the child (other than an adopted child) has a responsible parent who is an Australian citizen and there are exceptional circumstances which would make it unreasonable for the applicant to apply for a permanent visa.
+
+
+================================================================================
+Query 20: What remedies are available for breach of contract under Australian law?
+================================================================================
+
+Rank 1 | File: 08_1512.xml | Base Score: 0.0819 | Rerank Score: 3.4872
+The contract of employment did so by reference, by operation of the Workplace Relations Act and by operation of the provisions of the agreement. Hence, it was said, the breaches of the agreement were also breaches of the contract, founding the declaratory relief sought. 62 The University and the intervener, the Australian Higher Education Industrial Association (AHEIA), submitted that the Workplace Relations Act (relevantly, ss 719, 720 and 849) identified the relief that could be granted to remedy a breach of an agreement under the statute. The relief sought was not available under those provisions. The agreement was not a contract between the University and the applicant and general law remedies for breach of contract were not available. The contract of employment did not incorporate the agreement by any of the methods relied on by the applicant. Hence, any breach of the agreement could not be a breach of the contract of employment. Does the contract of employment incorporate the agreement? 63 The first way in which the applicant submitted that the contract of employment incorporated the whole of the agreement (or at least its disciplinary provisions) was by reference. 64 Riverwood International Australia Pty Ltd v McCormick (2000) 177 ALR 193 ; [2000] FCA 889 (North and Mansfield JJ) confirmed the principles applying to incorporation of documents by reference into employment contracts (adopting the principles identified by Weinberg J in McCormick v Riverwood International (Australia) Pty Ltd (1999) 167 ALR 689 ; [1999] FCA 1640 at [70] to [78]).
+
+Rank 2 | File: 06_1264.xml | Base Score: 0.0460 | Rerank Score: 3.0050
+1 The Australian Competition and Consumer Commissioner ('the ACCC') made application to the Court on 15 March 2005 for various remedies for alleged breaches, by the Respondents, of s 45(2) of the Trade Practices Act 1974 ('the Act'). The remedies sought included declarations, injunctions and the imposition of pecuniary penalties. The proceeding continued as a defended matter until March this year when an Amended Application, an Amended Statement of Claim and an Amended Defence were provided to the Court. It was foreshadowed that leave to file these documents would be sought. The Amended Defence, in substance admitted the allegations made by the ACCC. In its Amended Application the ACCC considerably narrowed the range of remedies which it was seeking. At the same time an agreed statement of facts and joint written submissions were filed. The submissions were made in support of proposed orders to be made by consent to resolve the proceeding. 2 A copy of the agreed statement of facts, which I accept, is attached to these reasons. 3 Section 45(2) of the Act prohibits corporations from making contracts or arrangements if those contracts or arrangements contain, inter alia, provisions restricting the supply of goods to particular persons or classes of person. The maximum pecuniary penalty for contravention of s 45(2) of the Act is $10 million.
+
+Rank 3 | File: 08_1512.xml | Base Score: 0.0716 | Rerank Score: 2.4360
+72 Their Honours concluded at [35]:
+ All in all, we accept the submission that the Act has created the concept of a certified agreement, has given it statutory force and has also regulated the means by which it may be construed and enforced in accordance with the principle in Josephson v Walker [Josephson v Walker (1914) 18 CLR 691]. 73 For these reasons the contract of employment does not incorporate the agreement by operation of the Workplace Relations Act or the agreement. Further the agreement itself is not a contract (or, at least, is not a contract as between the University and the applicant). What remedies are available for breach of the agreement? 74 The conclusions in Pangallo are also relevant to the question of remedies for breach of the agreement. As the applicant submitted Pangallo concerned the jurisdiction of State courts. The applicant said that, in light of s 840 of the Workplace Relations Act and the decisions in Construction, Forestry, Mining and Energy Union v Australian Industrial Relations Commission (2000) 203 CLR 645 ; [2001] HCA 16 and McAleer v University of Western Australia (2007) 159 IR 96; [2007] FCA 52 , it was evident that the Federal Court could grant all remedies necessary to quell the controversy between the parties and was not limited to the remedies specified in Pt 14 of the Act. 75 This submission also confronts a number of difficulties.
+
+
