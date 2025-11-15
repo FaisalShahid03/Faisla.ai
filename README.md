@@ -18,6 +18,8 @@ This project builds an AI-powered system to support legal workflows in Pakistan 
 
 The project uses the **Legal Case Reports in Australia (2006–2009)** dataset from the UCI ML Repository (re-hosted on Kaggle). It contains XML case files from the Federal Court of Australia, including catchphrases, sentences, annotations, and structured metadata. The dataset is widely used in research for legal summarization, citation analysis, and document classification.
 
+Kaggle link: https://www.kaggle.com/datasets/thedevastator/legal-case-reports-in-australia-2006-2009
+
 ---
 
 # 🧩 Sub-Problem 1: Case Classification AI
